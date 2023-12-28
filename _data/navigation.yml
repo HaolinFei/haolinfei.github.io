@@ -2,15 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "CV"
+    url: /cv/
+    
   - title: "Outreach"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
