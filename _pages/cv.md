@@ -11,49 +11,59 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. (Hons) in Glasgow, University of Glasgow, 2020
+* B.Eng. in Chengdu, University of Electronic Science and Technology of China, 2020
+* Ph.D in Robotics, Lancaster University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Software Engineer
+  * TWI SEA
+  * Duties included: Coding, document revising
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2020: Research Office Coordinator
+  * UESTC Research Service Office
+
+* Fall 2019: Student Mentor
+  * School of Information and Communication Engineering, UESTC
+  * Duties included: Advisory Mentor for Study‐Abroad Aspirants
+
+TBC
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Human-robot interaction
+* Aritificial Intelligence
+* Robot learning
+* Teleoperation
+* Visual Servoing
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  TBC
   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  TBC
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  TBC
   
-Service and leadership
+  
+Peer review
 ======
-* Currently signed in to 43 different slack teams
+* IEEE International Conference on Industrial Technology (ICIT) 2024
+* The International Federation of Automatic Control World Congress (IFAC) 2023
+* The International Conference on Robotics and Automation (ICRA) 2023
+* IEEE Robotics and Automation Letters (RA‐L)
+* 49th Annual Conference of the IEEE Industrial Electronics Society (IECON) 2023
