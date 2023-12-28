@@ -37,13 +37,6 @@ Research Interests
 * Robot learning
 * Teleoperation
 * Visual Servoing
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  TBC
   
 Talks
 ======
