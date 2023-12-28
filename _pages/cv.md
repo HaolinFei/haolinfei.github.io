@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.Eng. (Hons) in Glasgow, University of Glasgow, 2020
@@ -37,21 +38,6 @@ Research Interests
 * Robot learning
 * Teleoperation
 * Visual Servoing
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  TBC
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  TBC
-  
   
 Peer review
 ======
