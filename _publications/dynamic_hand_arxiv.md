@@ -1,11 +1,11 @@
 ---
 title: "Dynamic Hand Gesture-Featured Human Motor Adaptation in Tool Delivery using Voice Recognition"
 collection: publications
-permalink: /publication/2023
+permalink: /publication/dynamic_hand_arxiv
 excerpt: 'This paper is about hand-gesture based huam robot interaction. teleoperation and larger human subject experimemt is left for future work.'
 date: 2023-09-20
 venue: 'arXix preprint'
-paperurl: 'https://arxiv.org/pdf/2309.11368.pdf'
+paperurl: #'https://arxiv.org/pdf/2309.11368.pdf'
 citation: 'Fei, H., Tedeschi, S., Huang, Y., Kennedy, A., Wang, Z. (2023). &quot;Dynamic Hand Gesture-Featured Human Motor Adaptation in Tool Delivery using Voice Recognition.&quot; <i>arXiv preprint 1</i>. arXiv:2309.11368.'
 ---
 This paper is about hand-gesture based huam robot interaction. teleoperation and larger human subject experimemt is left for future work.
